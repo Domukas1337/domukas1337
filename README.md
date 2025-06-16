@@ -1,4 +1,4 @@
-![chibi](https://github.com/user-attachments/assets/c8af41d4-b1c6-4733-a454-29890f997dbd)
+![Gtb4Za8WMAAb6dH](https://github.com/user-attachments/assets/23f873ea-9d9a-42d0-844a-524543bfc6fb)
 
 ## Hello There! I'm Domukas! 🎉
 
