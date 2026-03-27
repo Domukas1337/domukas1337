@@ -7,4 +7,4 @@
     <img src="https://img.shields.io/badge/LANG-Python-blue?colorA=00070B&colorB=6791C9&style=for-the-badge" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Domukas1337&" alt="Domukas1337" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Domukas1337&" alt="Domukas1337" /></p>
