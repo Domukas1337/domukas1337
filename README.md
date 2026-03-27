@@ -1,5 +1,5 @@
-<p align="center">
-    ## Hello There! I'm Domukas! 🎉   
+<p align="center" style="font-weight: 900">
+    Hello There! I'm Domukas!  
 </p>
 
 <p align="center">
