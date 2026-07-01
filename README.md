@@ -1,6 +1,4 @@
-<h1 align="center">
-    Hello There! I'm Domukas!  
-</h1>
+<img src="https://raw.githubusercontent.com/Domukas1337/domukas1337/refs/heads/main/gith.png" />
 
 <p align="center">Enthusiastic</p>
 
