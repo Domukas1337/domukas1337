@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Domukas1337/domukas1337/refs/heads/main/gith.png" />
+<img src="https://raw.githubusercontent.com/Domukas1337/domukas1337/refs/heads/main/gith.webp" />
 
 <p align="center">
     <img src="https://img.shields.io/badge/LANG-Typescript-blue?colorA=00070B&colorB=F26E74&style=for-the-badge" />
